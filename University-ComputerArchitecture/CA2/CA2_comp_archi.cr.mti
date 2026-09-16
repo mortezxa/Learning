@@ -1,0 +1,50 @@
+{D:/5 simester/digital system 2/P2/mainmodule.sv} {1 {vlog -work work -sv -stats=none {D:/5 simester/digital system 2/P2/mainmodule.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RiscV_top
+
+Top level modules:
+	RiscV_top
+
+} {} {}} {D:/5 simester/digital system 2/P2/RiscV_components.sv} {1 {vlog -work work -sv -stats=none {D:/5 simester/digital system 2/P2/RiscV_components.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+-- Compiling module mux_2to1
+-- Compiling module ALU
+-- Compiling module data_memory
+-- Compiling module inst_mem
+-- Compiling module imm_gen
+-- Compiling module main_reg
+-- Compiling module register
+
+Top level modules:
+	adder
+	mux_2to1
+	ALU
+	data_memory
+	inst_mem
+	imm_gen
+	main_reg
+	register
+
+} {} {}} {D:/5 simester/digital system 2/P2/RiscV_datapath.sv} {1 {vlog -work work -sv -stats=none {D:/5 simester/digital system 2/P2/RiscV_datapath.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RiscVDP
+
+Top level modules:
+	RiscVDP
+
+} {} {}} {D:/5 simester/digital system 2/P2/RiscVTB.sv} {1 {vlog -work work -sv -stats=none {D:/5 simester/digital system 2/P2/RiscVTB.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RiscV_tb
+
+Top level modules:
+	RiscV_tb
+
+} {} {}} {D:/5 simester/digital system 2/P2/RiscV_controller.sv} {1 {vlog -work work -sv -stats=none {D:/5 simester/digital system 2/P2/RiscV_controller.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module RicsV_controller
+
+Top level modules:
+	RicsV_controller
+
+} {} {}}
