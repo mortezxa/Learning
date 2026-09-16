@@ -1,0 +1,260 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Morteza/Desktop/verilog/morteza
+T_opt
+!s110 1742133163
+VDmh4IfFTLB>zBDG_@5^]T1
+04 3 4 work gTB fast 0
+=1-ac220bad3dc9-67d6d7ab-12c-6f0
+o-quiet -auto_acc_if_foreign -work work
+Z0 tCvgOpt 0
+n@_opt
+OL;O;2020.4;71
+vg_Fun
+Z1 !s110 1742133144
+!i10b 1
+!s100 I]n60NZ0P2Q?XWkQ`SB;e1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IU`Sho34AMeiOa1cfPST_T1
+Z3 dC:/Users/Morteza/Desktop/verilog/AliGolzari
+w1741748782
+8C:/Users/Morteza/Desktop/verilog/AliGolzari/g_Fun.v
+FC:/Users/Morteza/Desktop/verilog/AliGolzari/g_Fun.v
+!i122 0
+L0 2 7
+Z4 VDg1SIo80bB@j0V0VzS_@n1
+Z5 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z6 !s108 1742133144.000000
+!s107 C:/Users/Morteza/Desktop/verilog/AliGolzari/g_Fun.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Morteza/Desktop/verilog/AliGolzari/g_Fun.v|
+!i113 0
+Z7 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R0
+ng_@fun
+vgTB
+R1
+!i10b 1
+!s100 hdTiO8Y6:XMEe3LO;_OT=3
+R2
+Ik>?63<cXYHdEE]=26JniC3
+R3
+w1741749580
+8C:/Users/Morteza/Desktop/verilog/AliGolzari/gTB.v
+FC:/Users/Morteza/Desktop/verilog/AliGolzari/gTB.v
+!i122 1
+Z8 L0 2 17
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Morteza/Desktop/verilog/AliGolzari/gTB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Morteza/Desktop/verilog/AliGolzari/gTB.v|
+!i113 0
+R7
+R0
+ng@t@b
+vMyNOR
+R1
+!i10b 1
+!s100 g^onUHF@G?c]PBMUFMEDM2
+R2
+I9GH1hlVBe20hinhWDdA@40
+R3
+w1741708642
+8C:/Users/Morteza/Desktop/verilog/AliGolzari/MyNOR.v
+FC:/Users/Morteza/Desktop/verilog/AliGolzari/MyNOR.v
+!i122 2
+Z9 L0 2 9
+R4
+R5
+r1
+!s85 0
+31
+R6
+!s107 C:/Users/Morteza/Desktop/verilog/AliGolzari/MyNOR.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Morteza/Desktop/verilog/AliGolzari/MyNOR.v|
+!i113 0
+R7
+R0
+n@my@n@o@r
+vMyNORTB
+Z10 !s110 1742133145
+!i10b 1
+!s100 C@Qn[]_3GFO6@LLmJ;I:31
+R2
+I=8cP78]f`0WPEo:]BC5?a1
+R3
+w1741720404
+8C:/Users/Morteza/Desktop/verilog/AliGolzari/MyNORTB.v
+FC:/Users/Morteza/Desktop/verilog/AliGolzari/MyNORTB.v
+!i122 3
+Z11 L0 2 16
+R4
+R5
+r1
+!s85 0
+31
+Z12 !s108 1742133145.000000
+!s107 C:/Users/Morteza/Desktop/verilog/AliGolzari/MyNORTB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Morteza/Desktop/verilog/AliGolzari/MyNORTB.v|
+!i113 0
+R7
+R0
+n@my@n@o@r@t@b
+vMyOAI
+R10
+!i10b 1
+!s100 ::0=3dJR@DI@5BI_^D3Gz3
+R2
+I3:7dF_a5`cEVQ7c6kk?AI3
+R3
+w1741724612
+8C:/Users/Morteza/Desktop/verilog/AliGolzari/MyOAI.v
+FC:/Users/Morteza/Desktop/verilog/AliGolzari/MyOAI.v
+!i122 4
+L0 2 12
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/Morteza/Desktop/verilog/AliGolzari/MyOAI.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Morteza/Desktop/verilog/AliGolzari/MyOAI.v|
+!i113 0
+R7
+R0
+n@my@o@a@i
+vMyOAITB
+R10
+!i10b 1
+!s100 2[k90Zej2@G8kj96GY:>>0
+R2
+IATaig`e:Q@eR4CF@P`YFX2
+R3
+w1741724349
+8C:/Users/Morteza/Desktop/verilog/AliGolzari/MyOAITB.v
+FC:/Users/Morteza/Desktop/verilog/AliGolzari/MyOAITB.v
+!i122 5
+R11
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/Morteza/Desktop/verilog/AliGolzari/MyOAITB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Morteza/Desktop/verilog/AliGolzari/MyOAITB.v|
+!i113 0
+R7
+R0
+n@my@o@a@i@t@b
+vOAIwAssign
+R10
+!i10b 1
+!s100 1HJP7CVHJlzaaah6G1_gA0
+R2
+IKRf>c<8dRdOlN=j__HXb^3
+R3
+w1741733579
+8C:/Users/Morteza/Desktop/verilog/AliGolzari/OAIwAssign.v
+FC:/Users/Morteza/Desktop/verilog/AliGolzari/OAIwAssign.v
+!i122 6
+L0 2 3
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/Morteza/Desktop/verilog/AliGolzari/OAIwAssign.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Morteza/Desktop/verilog/AliGolzari/OAIwAssign.v|
+!i113 0
+R7
+R0
+n@o@a@iw@assign
+vOAIwAssignTB
+R10
+!i10b 1
+!s100 <>`G6>[ik0bSCd54^H<n93
+R2
+I6zc3]0T;mVjj[^R=oE8oc0
+R3
+w1741734160
+8C:/Users/Morteza/Desktop/verilog/AliGolzari/OAIwAssignTB.v
+FC:/Users/Morteza/Desktop/verilog/AliGolzari/OAIwAssignTB.v
+!i122 7
+R11
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/Morteza/Desktop/verilog/AliGolzari/OAIwAssignTB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Morteza/Desktop/verilog/AliGolzari/OAIwAssignTB.v|
+!i113 0
+R7
+R0
+n@o@a@iw@assign@t@b
+vOAIwNOR
+Z13 !s110 1742133146
+!i10b 1
+!s100 QFnVNY]0E2PR7>l2D>ON^3
+R2
+Ic3T]Ne=lR1c<TkhLCU8A>3
+R3
+w1741720106
+8C:/Users/Morteza/Desktop/verilog/AliGolzari/OAIwNOR.v
+FC:/Users/Morteza/Desktop/verilog/AliGolzari/OAIwNOR.v
+!i122 8
+R9
+R4
+R5
+r1
+!s85 0
+31
+R12
+!s107 C:/Users/Morteza/Desktop/verilog/AliGolzari/OAIwNOR.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Morteza/Desktop/verilog/AliGolzari/OAIwNOR.v|
+!i113 0
+R7
+R0
+n@o@a@iw@n@o@r
+vOAIwNORTB
+R13
+!i10b 1
+!s100 Z>aKKmmY0Lgb>1iQ03iT81
+R2
+Iljn:Zd:TCKQjPmTIge?kM1
+R3
+w1741733688
+8C:/Users/Morteza/Desktop/verilog/AliGolzari/OAIwNORTB.v
+FC:/Users/Morteza/Desktop/verilog/AliGolzari/OAIwNORTB.v
+!i122 9
+R8
+R4
+R5
+r1
+!s85 0
+31
+!s108 1742133146.000000
+!s107 C:/Users/Morteza/Desktop/verilog/AliGolzari/OAIwNORTB.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|C:/Users/Morteza/Desktop/verilog/AliGolzari/OAIwNORTB.v|
+!i113 0
+R7
+R0
+n@o@a@iw@n@o@r@t@b

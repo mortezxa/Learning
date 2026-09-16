@@ -1,0 +1,71 @@
+C:/Users/Morteza/Desktop/verilog/AliGolzari/gTB.v {1 {vlog -work work -vopt -stats=none C:/Users/Morteza/Desktop/verilog/AliGolzari/gTB.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module gTB
+
+Top level modules:
+	gTB
+
+} {} {}} C:/Users/Morteza/Desktop/verilog/AliGolzari/MyNOR.v {1 {vlog -work work -vopt -stats=none C:/Users/Morteza/Desktop/verilog/AliGolzari/MyNOR.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module MyNOR
+
+Top level modules:
+	MyNOR
+
+} {} {}} C:/Users/Morteza/Desktop/verilog/AliGolzari/MyOAITB.v {1 {vlog -work work -vopt -stats=none C:/Users/Morteza/Desktop/verilog/AliGolzari/MyOAITB.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module MyOAITB
+
+Top level modules:
+	MyOAITB
+
+} {} {}} C:/Users/Morteza/Desktop/verilog/AliGolzari/OAIwAssign.v {1 {vlog -work work -vopt -stats=none C:/Users/Morteza/Desktop/verilog/AliGolzari/OAIwAssign.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module OAIwAssign
+
+Top level modules:
+	OAIwAssign
+
+} {} {}} C:/Users/Morteza/Desktop/verilog/AliGolzari/OAIwNORTB.v {1 {vlog -work work -vopt -stats=none C:/Users/Morteza/Desktop/verilog/AliGolzari/OAIwNORTB.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module OAIwNORTB
+
+Top level modules:
+	OAIwNORTB
+
+} {} {}} C:/Users/Morteza/Desktop/verilog/AliGolzari/g_Fun.v {1 {vlog -work work -vopt -stats=none C:/Users/Morteza/Desktop/verilog/AliGolzari/g_Fun.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module g_Fun
+
+Top level modules:
+	g_Fun
+
+} {} {}} C:/Users/Morteza/Desktop/verilog/AliGolzari/MyNORTB.v {1 {vlog -work work -vopt -stats=none C:/Users/Morteza/Desktop/verilog/AliGolzari/MyNORTB.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module MyNORTB
+
+Top level modules:
+	MyNORTB
+
+} {} {}} C:/Users/Morteza/Desktop/verilog/AliGolzari/MyOAI.v {1 {vlog -work work -vopt -stats=none C:/Users/Morteza/Desktop/verilog/AliGolzari/MyOAI.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module MyOAI
+
+Top level modules:
+	MyOAI
+
+} {} {}} C:/Users/Morteza/Desktop/verilog/AliGolzari/OAIwAssignTB.v {1 {vlog -work work -vopt -stats=none C:/Users/Morteza/Desktop/verilog/AliGolzari/OAIwAssignTB.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module OAIwAssignTB
+
+Top level modules:
+	OAIwAssignTB
+
+} {} {}} C:/Users/Morteza/Desktop/verilog/AliGolzari/OAIwNOR.v {1 {vlog -work work -vopt -stats=none C:/Users/Morteza/Desktop/verilog/AliGolzari/OAIwNOR.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module OAIwNOR
+
+Top level modules:
+	OAIwNOR
+
+} {} {}}
