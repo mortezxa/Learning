@@ -1,0 +1,8 @@
+f_s=50;
+t1 = -1:1/f_s:1;
+x1 = cos(10*pi*t1);
+stem(t1,x1);
+y1=fftshift(fft(x1));
+N=size(y1,2)
+f1= -f_s/2:fs/
+plot(f1,abs(y1));
